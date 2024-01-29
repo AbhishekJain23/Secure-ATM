@@ -1,0 +1,5 @@
+1	deposit				Sun Jul  4 11:51:20 2021	0	1000
+2	deposit				Sun Jul  4 11:51:29 2021	1000	10000
+3	deposit				Sun Jul  4 11:51:29 2021	10000	10000
+4	deposit				Sun Jul  4 11:51:30 2021	10000	10000
+5	withdraw			Sun Jul  4 11:52:02 2021	10000	5000
